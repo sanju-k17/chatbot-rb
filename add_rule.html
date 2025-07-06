@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Add Rule</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    ➕ Add New Chatbot Rule
+    <a href="index.html">← Back to Chat</a>
+  </header>
+
+  <div class="form‑card">
+    <label>Trigger (Regex pattern)</label>
+    <input id="pattern" placeholder="e.g., thank you" />
+
+    <label>Bot Reply</label>
+    <input id="reply" placeholder="e.g., You're welcome! 😊" />
+
+    <button id="saveBtn">Save Rule</button>
+    <p id="status"></p>
+  </div>
+
+  <script src="js/add_rule.js"></script>
+</body>
+</html>
