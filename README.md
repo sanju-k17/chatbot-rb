@@ -62,7 +62,7 @@ pip install fastapi uvicorn
 ### 4. Run the Chatbot Locally
 
 ```bash
-uvicorn backend.main:app --reload
+python -m uvicorn backend.main:app --reload
 ```
 
 > ✅ Visit the chatbot UI in your browser: [http://localhost:8000](http://localhost:8000)
