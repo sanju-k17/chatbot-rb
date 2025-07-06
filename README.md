@@ -6,7 +6,7 @@ A simple and interactive **rule-based chatbot** built using **Python (FastAPI)**
 
 ## 🎥 Demo
 
-📺 [Watch the Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+📺 [Watch the Demo Video](https://youtu.be/Gd9-t8JYSLM)  
 > Replace with your actual YouTube or Google Drive link
 
 ---
