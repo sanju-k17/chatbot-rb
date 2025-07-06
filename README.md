@@ -43,7 +43,7 @@ pip --version
 ### 2. Clone the Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chatbot-rb.git
+git clone https://github.com/sanju-k17/chatbot-rb.git
 cd chatbot-rb
 ```
 
